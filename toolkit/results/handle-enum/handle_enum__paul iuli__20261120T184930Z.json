@@ -1,0 +1,25 @@
+{
+  "handle": "paul iuli",
+  "name": "Paul Iuli",
+  "checked_at": "20261120T184930Z",
+  "blocked_on_429": false,
+  "queries_run": 4,
+  "results": [
+    {
+      "query": "site:instagram.com \"paul iuli\"",
+      "results": []
+    },
+    {
+      "query": "site:instagram.com/paul iuli",
+      "results": []
+    },
+    {
+      "query": "\"Paul Iuli\" site:instagram.com",
+      "results": []
+    },
+    {
+      "query": "\"paul iuli\"",
+      "results": []
+    }
+  ]
+}

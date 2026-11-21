@@ -1,0 +1,25 @@
+{
+  "handle": "@example-handle",
+  "name": "Example Signal Case",
+  "checked_at": "20261120T181530Z",
+  "blocked_on_429": false,
+  "queries_run": 4,
+  "results": [
+    {
+      "query": "site:instagram.com \"example-handle\"",
+      "results": []
+    },
+    {
+      "query": "site:instagram.com/example-handle",
+      "results": []
+    },
+    {
+      "query": "\"Example Signal Case\" site:instagram.com",
+      "results": []
+    },
+    {
+      "query": "\"@example-handle\"",
+      "results": []
+    }
+  ]
+}
